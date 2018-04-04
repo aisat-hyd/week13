@@ -1,6 +1,6 @@
 # week13
 
-Preparation for week 12 of AI Saturday Hyderabad(07/4/2018)
+Preparation for week 13 of AI Saturday Hyderabad(07/4/2018)
 ------
 What would we discuss this week?
 
